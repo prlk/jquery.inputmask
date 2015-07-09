@@ -270,7 +270,7 @@
 	{ "mask": "+255-##-###-####", "cc": "TZ", "cd": "Tanzania", "desc_en": "", "name_ru": "Танзания", "desc_ru": "" },
 	{ "mask": "+380(##)###-##-##", "cc": "UA", "cd": "Ukraine", "desc_en": "", "name_ru": "Украина", "desc_ru": "" },
 	{ "mask": "+256(###)###-###", "cc": "UG", "cd": "Uganda", "desc_en": "", "name_ru": "Уганда", "desc_ru": "" },
-	{ "mask": "+44-##-####-####", "cc": "UK", "cd": "United Kingdom", "desc_en": "", "name_ru": "Великобритания", "desc_ru": "" },
+	{ "mask": "+44(##)####-####", "cc": "UK", "cd": "United Kingdom", "desc_en": "", "name_ru": "Великобритания", "desc_ru": "" },
 	{ "mask": "+598-#-###-##-##", "cc": "UY", "cd": "Uruguay", "desc_en": "", "name_ru": "Уругвай", "desc_ru": "" },
 	{ "mask": "+998-##-###-####", "cc": "UZ", "cd": "Uzbekistan", "desc_en": "", "name_ru": "Узбекистан", "desc_ru": "" },
 	{ "mask": "+39-6-698-#####", "cc": "VA", "cd": "Vatican City", "desc_en": "", "name_ru": "Ватикан", "desc_ru": "" },
