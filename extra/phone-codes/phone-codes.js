@@ -113,7 +113,7 @@
 	{ "mask": "+62-##-###-####", "cc": "ID", "cd": "Indonesia", "desc_en": "", "name_ru": "Индонезия", "desc_ru": "" },
 	{ "mask": "+62(8##)###-###", "cc": "ID", "cd": "Indonesia ", "desc_en": "mobile", "name_ru": "Индонезия ", "desc_ru": "мобильные" },
 	{ "mask": "+62(8##)###-##-###", "cc": "ID", "cd": "Indonesia ", "desc_en": "mobile", "name_ru": "Индонезия ", "desc_ru": "мобильные" },
-	{ "mask": "+353(###)###-###", "cc": "IE", "cd": "Ireland", "desc_en": "", "name_ru": "Ирландия", "desc_ru": "" },
+	{ "mask": "+353(#[#][#])###-####", "cc": "IE", "cd": "Ireland", "desc_en": "", "name_ru": "Ирландия", "desc_ru": "" },
 	{ "mask": "+972-5#-###-####", "cc": "IL", "cd": "Israel ", "desc_en": "mobile", "name_ru": "Израиль ", "desc_ru": "мобильные" },
 	{ "mask": "+972-#-###-####", "cc": "IL", "cd": "Israel", "desc_en": "", "name_ru": "Израиль", "desc_ru": "" },
 	{ "mask": "+91(####)###-###", "cc": "IN", "cd": "India", "desc_en": "", "name_ru": "Индия", "desc_ru": "" },
